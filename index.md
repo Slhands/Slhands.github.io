@@ -32,6 +32,7 @@
 
 - 이미지  
   <img src="./img/이미지.jpg">
+  
 - 동영상
   [![](./img/링크로고.png)](https://www.youtube.com/watch?v=W1OUs3HwIuo)
 
